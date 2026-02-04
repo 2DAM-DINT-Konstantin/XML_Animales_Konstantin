@@ -11,6 +11,7 @@ package xmlanimales_konstantin;
 public class VentanaAnimales extends javax.swing.JFrame {
     
     private java.util.List<String> animales = new java.util.ArrayList<>();
+    
     private static final java.util.logging.Logger logger = java.util.logging.Logger.getLogger(VentanaAnimales.class.getName());
 
     /**
